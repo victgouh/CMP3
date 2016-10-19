@@ -1,0 +1,21 @@
+name = html5template
+description = Html5 template made by Victor Gouhie.
+core = 7.x
+engine = phptemplate
+stylesheets[all][] = /css/main.css
+
+regions[left] = Left sidebar
+regions[right] = Right sidebar
+regions[content] = Content
+regions[header] = Header
+regions[footer] = Footer
+regions[sidebar_first]  = Primary Sidebar
+regions[sidebar_second] = Secondary Sidebar
+
+[highlighted] = 'Highlighted'
+
+
+
+
+
+
